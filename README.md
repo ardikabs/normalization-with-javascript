@@ -12,11 +12,13 @@ http://localhost:3000/{file}/{method}
 ## Output
 http://localhost:3000/{file}/output
 
-File :  1. Iris (iris)
+File :  
+        1. Iris (iris)
 
         2. Thyroid (thyroid)
 
-Method : 1. Min-Max (minmax)
+Method : 
+         1. Min-Max (minmax)
 
          2. Z-Score (zscore)
 
