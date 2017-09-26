@@ -13,12 +13,17 @@ http://localhost:3000/{file}/{method}
 http://localhost:3000/{file}/output
 
 File :  1. Iris (iris)
+
         2. Thyroid (thyroid)
 
 Method : 1. Min-Max (minmax)
+
          2. Z-Score (zscore)
+
          3. Decimal Scaling (decimal_scaling)
+
          4. Sigmoidal (sigmoidal)
+         
          5. Softmax (softmax)
 
 
