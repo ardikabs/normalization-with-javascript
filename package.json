@@ -1,0 +1,17 @@
+{
+  "name": "normalization",
+  "version": "1.0.0",
+  "description": "Normalization data for iris and thyroid data",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node ./build/index.js"
+  },
+  "author": "ardikabs",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^8.0.31",
+    "express": "^4.15.5",
+    "fast-csv": "^2.4.0",
+    "typescript": "^2.5.2"
+  }
+}
